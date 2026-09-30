@@ -5,67 +5,6 @@
    "name": "Class 9",
    "chapters": [
     {
-     "n": 4,
-     "name": "Factorization",
-     "desc": "Complete chapter-wise Mathematics notes and exercise solutions.",
-     "exercises": [
-      {
-       "n": "4.1",
-       "title": "Factorization – Exercise 4.1",
-       "desc": "Step-by-step solution of Exercise 4.1.",
-       "pdf": "",
-       "yt": "",
-       "questions": []
-      },
-      {
-       "n": "4.2",
-       "title": "Factorization – Exercise 4.2",
-       "desc": "Step-by-step solution of Exercise 4.2.",
-       "pdf": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
-       "yt": "",
-       "questions": []
-      },
-      {
-       "n": "4.3",
-       "title": "Factorization – Exercise 4.3",
-       "desc": "Complete step-by-step solution of Exercise 4.3 according to the new syllabus.",
-       "pdf": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
-       "yt": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-       "added": 3,
-       "questions": [
-        {
-         "n": 1,
-         "pdf": "",
-         "yt": ""
-        },
-        {
-         "n": 2,
-         "pdf": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
-         "yt": ""
-        },
-        {
-         "n": 3,
-         "pdf": "",
-         "yt": ""
-        },
-        {
-         "n": 4,
-         "pdf": "",
-         "yt": ""
-        }
-       ]
-      },
-      {
-       "n": "4.4",
-       "title": "Factorization – Exercise 4.4",
-       "desc": "Solution of Exercise 4.4.",
-       "pdf": "",
-       "yt": "",
-       "questions": []
-      }
-     ]
-    },
-    {
      "n": 2,
      "name": "Logarithms",
      "desc": "Complete chapter-wise Mathematics notes and exercise solutions.",
