@@ -5,55 +5,6 @@
    "name": "Class 9",
    "chapters": [
     {
-     "n": 1,
-     "name": "Matrices and Determinants",
-     "desc": "Complete chapter-wise Mathematics notes and exercise solutions.",
-     "exercises": [
-      {
-       "n": "1.1",
-       "title": "Matrices and Determinants – Exercise Exercise 1.1",
-       "desc": "Complete step-by-step solution of Exercise Exercise 1.1.",
-       "pdf": "pdfs/class-9-ch1-ex1-1.pdf",
-       "yt": "https://youtu.be/4y0Cc1XYY5Y?si=7weBIXJJjBsYld0I",
-       "questions": [],
-       "added": 4
-      },
-      {
-       "n": "1.2",
-       "title": "Matrices and Determinants – Exercise 1.2",
-       "desc": "Complete step-by-step solution of Exercise 1.2.",
-       "pdf": "https://drive.google.com/file/d/1QH04ZazlD4qF9SarBNFUFbd3LR15aiOn/view?usp=sharing",
-       "yt": "https://youtu.be/4y0Cc1XYY5Y?si=7weBIXJJjBsYld0I",
-       "questions": [],
-       "added": 5
-      },
-      {
-       "n": "1.3",
-       "title": "Matrices and Determinants – Exercise 1.3",
-       "desc": "Complete step-by-step solution of Exercise 1.3.",
-       "pdf": "",
-       "yt": "",
-       "questions": [
-        {
-         "n": 2,
-         "pdf": "pdfs/class-9-ch1-ex1-1.pdf",
-         "yt": "https://youtu.be/4y0Cc1XYY5Y?si=7weBIXJJjBsYld0I"
-        }
-       ],
-       "added": 6
-      },
-      {
-       "n": "1.4",
-       "title": "Matrices and Determinants – Exercise 1.4",
-       "desc": "Complete step-by-step solution of Exercise 1.4.",
-       "pdf": "pdfs/class-9-ch1-ex1-1.pdf",
-       "yt": "https://youtu.be/4y0Cc1XYY5Y?si=7weBIXJJjBsYld0I",
-       "questions": [],
-       "added": 7
-      }
-     ]
-    },
-    {
      "n": 4,
      "name": "Factorization",
      "desc": "Complete chapter-wise Mathematics notes and exercise solutions.",
