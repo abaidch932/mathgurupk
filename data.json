@@ -26,7 +26,17 @@
      "n": 4,
      "name": "Factorization and Algebraic Manipulation",
      "desc": "Complete chapter-wise Mathematics notes and exercise solutions.",
-     "exercises": []
+     "exercises": [
+      {
+       "n": "4.1",
+       "title": "Factorization and Algebraic Manipulation – Exercise 4.1",
+       "desc": "Complete step-by-step solution of Exercise 4.1.",
+       "pdf": "https://drive.google.com/file/d/17eqFh2PdQDIgPc-gFzo12qGEXioTxBMK/view?usp=drive_link",
+       "yt": "",
+       "questions": [],
+       "added": 3
+      }
+     ]
     },
     {
      "n": 5,
