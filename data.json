@@ -193,7 +193,14 @@
   {
    "slug": "smart-syllabus-",
    "name": "Smart Syllabus ",
-   "chapters": []
+   "chapters": [
+    {
+     "n": 1,
+     "name": "Smart syllabus",
+     "desc": "Complete chapter-wise Mathematics notes and exercise solutions.",
+     "exercises": []
+    }
+   ]
   },
   {
    "slug": "smart-syllabus-class-9th",
