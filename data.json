@@ -198,7 +198,17 @@
      "n": 1,
      "name": "Smart syllabus",
      "desc": "Complete chapter-wise Mathematics notes and exercise solutions.",
-     "exercises": []
+     "exercises": [
+      {
+       "n": "1",
+       "title": "Smart Syllabus 10th",
+       "desc": "Complete step-by-step solution of Exercise 1.",
+       "pdf": "https://drive.google.com/file/d/1ILga2RvwoudOZRj_rSOVVwSo_8TCbJd2/view?usp=sharing",
+       "yt": "",
+       "questions": [],
+       "added": 10
+      }
+     ]
     }
    ]
   },
